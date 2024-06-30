@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Aa';
+    src: url('AaYSZGXK.eot');
+    src: url('AaYSZGXK.eot?#iefix') format('embedded-opentype'),
+        url('AaYSZGXK.woff') format('woff'),
+        src: url('AaYSZGXK.woff2') format('woff2'),
+        url('AaYSZGXK.ttf') format('truetype'),
+        url('AaYSZGXK.svg#AaYSZGXK') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
